@@ -1,5 +1,5 @@
 ![Tela de Login](https://github.com/Emerson2342/ControleDeContatos/blob/master/ControleDeContatos/Imagens/telaInicial.jpeg)
-![Redefinir Senha](https://github.com/Emerson2342/ControleDeContatos/blob/master/ControleDeContatos/Imagens/redifinirSenha.jpeg)
+![Redefinir Senha](https://github.com/Emerson2342/ControleDeContatos/blob/master/ControleDeContatos/Imagens/redefinirSenha.jpeg)
 ![Página Principal](https://github.com/Emerson2342/ControleDeContatos/blob/master/ControleDeContatos/Imagens/home.jpeg)
 ![Usuários](https://github.com/Emerson2342/ControleDeContatos/blob/master/ControleDeContatos/Imagens/listaDeUsuarios.jpeg)
 ![Contatos](https://github.com/Emerson2342/ControleDeContatos/blob/master/ControleDeContatos/Imagens/listaDeContatos.jpeg)
